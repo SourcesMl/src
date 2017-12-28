@@ -1,2 +1,2 @@
 # src
-sources whose links are died
+sources of expired links
